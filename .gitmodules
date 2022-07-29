@@ -1,0 +1,15 @@
+[submodule "A.5.1-difftest"]
+	path = A.5.1-difftest
+	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.2-lightsss"]
+	path = A.5.2-lightsss
+	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.3-performance"]
+	path = A.5.3-performance
+	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.4-XS"]
+	path = A.5.4-XS
+	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.5-PUBS"]
+	path = A.5.5-PUBS
+	url = https://github.com/OpenXiangShan/xs-env.git
