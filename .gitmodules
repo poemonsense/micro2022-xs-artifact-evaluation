@@ -25,3 +25,9 @@
 [submodule "A.5.4-XS-FPGA-NH-4MB"]
 	path = A.5.4-XS-FPGA-NH-4MB
 	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.5-PUBS-BASELINE"]
+	path = A.5.5-PUBS-BASELINE
+	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.5-PUBS-AGE-ONLY"]
+	path = A.5.5-PUBS-AGE-ONLY
+	url = https://github.com/OpenXiangShan/xs-env.git
