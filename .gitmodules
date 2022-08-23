@@ -16,3 +16,12 @@
 [submodule "A.5.4-XS-NH"]
 	path = A.5.4-XS-NH
 	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.4-XS-FPGA-YQH"]
+	path = A.5.4-XS-FPGA-YQH
+	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.4-XS-FPGA-NH-2MB"]
+	path = A.5.4-XS-FPGA-NH-2MB
+	url = https://github.com/OpenXiangShan/xs-env.git
+[submodule "A.5.4-XS-FPGA-NH-4MB"]
+	path = A.5.4-XS-FPGA-NH-4MB
+	url = https://github.com/OpenXiangShan/xs-env.git
